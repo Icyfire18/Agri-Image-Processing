@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- $Revision: 1.4.2.6.22.1 $  $Date: 2013/10/09 06:16:44 $ -->
+<demos>
+   <name>Database</name>
+   <type>toolbox</type>
+   <icon>$toolbox/matlab/icons/matlabicon.gif</icon>
+   <description isCdata="no">
+
+</description>
+    <demoitem>
+      <label>Using Database Explorer (4 min, 20 sec)</label>
+      <type>video</type>
+      <callback>web('http://www.mathworks.com/videos/using-database-explorer-101617.html','-browser')</callback>
+    </demoitem>
+</demos>
